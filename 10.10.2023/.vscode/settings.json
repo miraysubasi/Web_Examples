@@ -1,0 +1,16 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "[!d]*/**": true,
+        "d[!e]*/**": true,
+        "de[!r]*/**": true,
+        "der[!s]*/**": true,
+        "ders[!0]*/**": true,
+        "ders0[!1]*/**": true
+    }
+}
